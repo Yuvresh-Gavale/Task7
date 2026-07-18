@@ -2,7 +2,7 @@
 
 html file: https://github.com/Yuvresh-Gavale/Task7/blob/main/Tutedude%20Task%207/index.html
 <br>
-css file:  
+css file:  https://github.com/Yuvresh-Gavale/Task7/blob/main/Tutedude%20Task%207/style.css
 # Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/Task7/edit/main/README.md
 <br>
