@@ -1,6 +1,6 @@
 # Task7
 
-html file: 
+html file: https://github.com/Yuvresh-Gavale/Task7/blob/main/Tutedude%20Task%207/index.html
 <br>
 css file:  
 # Clone the repo
